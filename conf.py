@@ -46,8 +46,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'p3pt'
-copyright = '2022 - Barbara Ericson'
+project = 'dp3pt'
+copyright = '2023 - Barbara Ericson'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -122,7 +122,7 @@ html_theme = 'sphinx_bootstrap'
 #html_theme_options = {'nosidebar': 'true'}
 html_theme_options = {
     # Navigation bar title. (Default: ``project`` value)
-    'navbar_title': "p3pt",
+    'navbar_title': "dp3pt",
 
     # Tab name for entire site. (Default: "Site")
     'navbar_site_name': "Chapters",
@@ -170,10 +170,10 @@ html_theme_path = [pkg_resources.resource_filename('runestone', 'common/project_
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = 'p3pt'
+html_title = 'dp3pt'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title ='p3pt'
+html_short_title ='dp3pt'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -241,4 +241,4 @@ htmlhelp_basename = 'PythonCoursewareProjectdoc'
 # key_words
 key_words = "Python, Python 3, experiment, test"
 shelf_section = "Python Experiments"
-course_description = "This interactive ebook was created by a ITiCSE working group led by Dr. Barbara Ericson to test Parsons problems versus writing the equivalent code. "
+course_description = "This interactive ebook was created by a ITiCSE working group led by Dr. Barbara Ericson, Dr. Janice Pearce, and Dr. Susan Rodger to test Parsons problems versus writing the equivalent code. "

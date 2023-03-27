@@ -16,7 +16,7 @@ sys.path.append(os.getcwd())
 
 home_dir = os.getcwd()
 
-project_name = "p3pt"
+project_name = "dp3pt"
 
 #master_url = None
 #if master_url is None:
@@ -36,7 +36,7 @@ if master_url is None:
     master_url = get_master_url()
 
 master_app = 'runestone'
-serving_dir = "./build/p3pt"
+serving_dir = "./build/dp3pt"
 
 #new 7/2019 changes
 # Change to False when running localhost
@@ -56,9 +56,9 @@ options(
     sphinx = Bunch(docroot=".",),
 
     build = Bunch(
-        builddir="./build/p3pt",
+        builddir="./build/dp3pt",
         sourcedir="_sources",
-        outdir="./build/p3pt",
+        outdir="./build/dp3pt",
         confdir=".",
         project_name=project_name,
         template_args={'course_id': project_name,
@@ -69,7 +69,7 @@ options(
                        'use_services': 'true',
                        'python3': 'true',
                        'dburl': 'postgresql://runestone@localhost/runestone',
-                       'basecourse': 'p3pt',
+                       'basecourse': 'dp3pt',
                         # new 7/2019 changes
                        'dynamic_pages': dynamic_pages,
                        'downloads_enabled': 'false',

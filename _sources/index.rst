@@ -13,18 +13,18 @@ Python 3 with Lists, Loops, Conditionals, and Functions
 .. Sources can also be included from subfolders of this directory.
    (e.g. "DataStructures/queues.rst").
 
-Study Information
+Assignment Information
 :::::::::::::::::::::::
 
-Thank you for taking part in this study! We are researchers who are trying
+Thank you for taking part in this assignment! We are researchers who are trying
 to improve the teaching and learning of programming.
 
-This study has four parts.  It will take approximately 50 minutes to complete
-the study.  Please do the parts in order and answer questions to the best
+This assignment has four parts.  It will take approximately 50 minutes to complete
+the assignment.  Please do the parts in order and answer questions to the best
 of your ability without any outside help. You can stop working on a problem after you worked
 on it for about five minutes without solving it.
 
-If you have questions about this study please email Dr. Barbara Ericson at barbarer@umich.edu.
+If you have questions about this assignment please email Dr. Susan Rodger at rodger@cs.duke.edu.
 
 The four parts are:
 
