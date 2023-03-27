@@ -34,4 +34,4 @@ Feedback
 
 Thank You
 ============================
-Thank you for taking part in this study!  We appreciate your time on this.
+Thank you for finishing this assignment! We appreciate your time on this.
