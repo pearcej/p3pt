@@ -241,4 +241,4 @@ htmlhelp_basename = 'PythonCoursewareProjectdoc'
 # key_words
 key_words = "Python, Python 3, experiment, test"
 shelf_section = "Python Experiments"
-course_description = "This interactive ebook was created by a ITiCSE working group led by Dr. Barbara Ericson, Dr. Janice Pearce, and Dr. Susan Rodger to test Parsons problems versus writing the equivalent code. "
+course_description = "Duke version of a study created by a ITiCSE working group led by Dr. Barbara Ericson, Dr. Janice Pearce, and Dr. Susan Rodger to test Parsons problems versus writing the equivalent code. "
